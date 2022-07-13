@@ -37,6 +37,5 @@ For Terraform v0.11 see the Compatibility section above
 Terraform Provider for GCP plugin v4.28
 
 Google Cloud Storage JSON API: storage-api.googleapis.com
-The Project Factory module can be used to provision a project with the necessary APIs enabled.
 
-Contributing
+
